@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**z8kee/z8kee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Ezekiel, a Computer Science undergraduate based in England.
 
-Here are some ideas to get you started:
+I usually work with the backend, preferably data analysis and machine learning -- Python, SQL, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on a biomechanical analysis project that analyses an athlete's running form using a temporal 1D CNN and a static model, will feed my collected data into it.
+
+Starting from anew, I will continue to build my skills through contributions and projects. Join me on this journey.
+
+## Fun Facts
+
+- I'm a 100m/200m sprinter, gymnast
+- Like solving mathematical theories (sometimes)
