@@ -27,6 +27,8 @@ Expected Graduation : June 2028.
 | **Frameworks & AI** | TensorFlow, PyTorch, Keras, FastAPI, OpenCV, NumPy, Flask, Streamlit, FAISS |
 | **Developer Tools** | Git, GitHub Actions, CI/CD, Jupyter, Colab, GCP, Docker, VS Code, Eclipse |
 | **Product Skills** | Data Analysis, Software Engineering, Machine Learning, Artificial Intelligence |
+| **Certifications** | Nvidia Deep Learning, Harvard CS50, Bloomberg Finance Fundamentals |
+| **Databases** | SQLite |
 
 ---
 
