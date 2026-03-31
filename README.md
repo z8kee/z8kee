@@ -17,8 +17,6 @@ Expected Graduation : June 2028.
 
 ---
 
----
-
 ### Technical Skills
 
 | Category | Skills & Tools |
@@ -37,7 +35,7 @@ Expected Graduation : June 2028.
 * **LinkedIn**: [linkedin.com/in/z8kee](https://www.linkedin.com/in/z8kee)
 * **GitHub**: [github.com/z8kee](https://github.com/z8kee)
 * **Email**: [ezekielkwaw2006@gmail.com](mailto:ezekielkwaw2006@gmail.com)
-* **TikTok**: [tiktok.com/z8codes](https://www.tiktok.com/@z8codes)
+* **TikTok**: [tiktok.com/z8codes](https://www.tiktok.com/@z8codes) (will post soon)
 
 ---
 *Job = "Good" if good_deed and good_network and good_self_studying and lucky_number == 8 else "Bad"
