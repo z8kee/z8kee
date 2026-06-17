@@ -8,8 +8,8 @@ I am a First Year CS student with a deep passion for AI/ML and Software Engineer
 
 ### What I'm up to
 
-* **Incoming Technology Spring Intern** at **Morgan Stanley** (April 2026).
-* **Incoming Technology Spring Intern** at **Barclays** (April 2026).
+* **Technology Spring Intern** at **Morgan Stanley** (April 2026).
+* **Technology Spring Intern** at **Barclays** (April 2026).
 * **Student-Athlete** competing in sprint and relay events at regional and national levels.
 * I **self-study** most of the time to be ahead of everyone else.
 
